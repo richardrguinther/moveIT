@@ -1,0 +1,2 @@
+npx create-next-app {projectName}
+npx install typescript @types/react @types/react-dom @types/node -D
