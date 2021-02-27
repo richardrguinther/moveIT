@@ -9,7 +9,7 @@ export const ExperienceBar = () => {
   );
 
   const percentToNextLevel = Math.round(
-    (currentExperience * 100) / experienceToNextLevel()
+    (currentExperience * 100) / experienceToNextLevel
   );
 
   return (
@@ -24,7 +24,7 @@ export const ExperienceBar = () => {
           {currentExperience}
         </span>
       </div>
-      <span>{experienceToNextLevel()} xp</span>
+      <span>{experienceToNextLevel} xp</span>
     </header>
   );
 };
