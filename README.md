@@ -18,5 +18,6 @@ A aplicação armazena seus dados com cookies.
 
 ## Próximos passos da aplicação
 - Sistema de login
+- Customização de tempo de cada ciclo
 - Customização da aplicação
 - PWA
