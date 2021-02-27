@@ -7,9 +7,9 @@ export const Profile = () => {
 
   return (
     <div className={styles.profileContainer}>
-      <img src="https://github.com/richardrguinther.png" alt="Foto do Perfil" />
+      <img src="/icons/catuser.png" alt="Foto do Perfil" />
       <div>
-        <strong>Richard Guinther</strong>
+        <strong>Usuário</strong>
         <p>
           <img src="icons/level.svg" />
           Level {level}

@@ -1,8 +1,7 @@
 import React from "react";
-import { ChallengesContext } from "../contexts/ChallengeContext";
 import { CountdownContext } from "../contexts/CountdownContext";
 
-import styles from "../styles/components/countdown.module.css";
+import styles from "../styles/components/Countdown.module.css";
 
 export const Countdown = () => {
   const {
